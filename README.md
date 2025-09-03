@@ -6,7 +6,7 @@
     🔗 Follow Slava for more agentic AI resources
 </p>
 <p align="center">
-<a href="https://twitter.com/slavakurilyak">🐦 Twitter</a> | <a href="https://linkedin.com/in/slavakurilyak">💼 LinkedIn</a> | <a href="https://github.com/slavakurilyak">🐙 Github</a>
+<a href="https://x.com/NASIMAHMMED44">🐦 Twitter</a> | <a href="https://www.linkedin.com/in/nasimahmmed">💼 LinkedIn</a> | <a href="https://github.com/nasimahmmed">🐙 Github</a>
 </p>
 
 This project tracks the latest agentic AI projects and provides a list of 200+ resources, curated by Slava Kurilyak
@@ -15,7 +15,7 @@ This project tracks the latest agentic AI projects and provides a list of 200+ r
 
 AI agents outperform traditional LLMs
 
-According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
+According to [Andrew Ng (@masimahmmed)](https://github.com/nasimahmmed):
 
 > "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
