@@ -15,7 +15,7 @@ This project tracks the latest agentic AI projects and provides a list of 200+ r
 
 AI agents outperform traditional LLMs
 
-According to [Andrew Ng (@masimahmmed)](https://github.com/nasimahmmed):
+According to [Andrew Ng (@nasimahmmed)](https://github.com/nasimahmmed):
 
 > "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
