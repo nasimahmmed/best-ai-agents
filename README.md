@@ -2419,8 +2419,8 @@ At Produvia, we partner with $7M+ in revenue brands to develop custom AI agents
 To express your support, you can take the following actions:
 
 1. **Star the Repository**: This helps increase its visibility.
-2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
-3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
+2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://www.linkedin.com/in/nasimahmmed).
+3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://www.linkedin.com/in/nasimahmmed).
 
 ## 🚀 Star History
 
